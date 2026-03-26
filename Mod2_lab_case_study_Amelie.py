@@ -1,4 +1,5 @@
-# This program collects student names and GPAs, then determines
+# Amelie Mbouna Djouda 
+# Description: This program collects student names and GPAs, then determines
 # if the student qualifies for the Dean's List (3.5+) or Honor Roll (3.25+).
 
 while True:
